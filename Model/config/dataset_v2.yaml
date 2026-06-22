@@ -1,0 +1,12 @@
+path: C:/Users/Ryuminseo/source/repos/DLIP/Final/Model/dataset/Final_Project_v2
+train: train/images
+val:   valid/images
+test:  test/images
+
+nc: 5
+names:
+  0: Blade
+  1: bottle
+  2: scalpel10
+  3: scalpel11
+  4: scalpel15
